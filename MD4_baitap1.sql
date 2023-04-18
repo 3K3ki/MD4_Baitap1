@@ -14,6 +14,9 @@ Teachername varchar(10) unique not null,
 quequan varchar(50)
 );
 
+-- drop table Teacher;
+drop table Teacher;
+-- nhap du lieu cho bang
 
 
 
